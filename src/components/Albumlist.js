@@ -1,11 +1,11 @@
-import React, { Components } from 'react';
+import React, { Component } from 'react';
 import { View, Text } from 'react-native';
 
-class Albumlist extends Components {
+class Albumlist extends Component {
   render() {
     return (
       <View>
-        <Text> AlbumList !!</Text>
+        <Text> AlbumList !</Text>
       </View>
     );
   }
